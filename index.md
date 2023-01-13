@@ -16,9 +16,14 @@ Click [here](Db2 for zOS REST and Hybrid Cloud Presentation.pdf){:target="_blank
 Click [here](CMDB21 Virtual Access Guide.pdf){:target="_blank"} to read the instructions for how to access the Windows environment via a Remote Desktop application or a Web Browser.
 
 The lab instructions are available for download for your convenience.
+
 Lab #1 Db2 for z/OS Native REST Services: [here](Db2 for zOS REST and Hybrid Cloud - Lab 1 v4.0.pdf){:target="_blank"}.
+
 Lab #2 z/OS Connect Integration and OpenAPI 2 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2A v4.0.pdf){:target="_blank"}.
+
 Lab #3 (optional) z/OS Connect Integration and OpenAPI 3 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2B v4.0.pdf){:target="_blank"}.
+
+## Remote System Credentials 
 
 **Please enter the email address you used for registration to retrieve your unique log in details.**
 
@@ -36,4 +41,4 @@ Lab #3 (optional) z/OS Connect Integration and OpenAPI 3 [here](Db2 for zOS REST
 </div>
 
 ## Help
-Having trouble with labs? Send an email to [Tadas Varaneckas](mailto: tadas.varan@ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Keziah Knopp](mailto: keziah.knopp@ibm.com) and we will help you sort it out.
