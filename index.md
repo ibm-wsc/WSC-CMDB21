@@ -18,8 +18,8 @@ Click [here](CMDB21 Virtual Access Guide.pdf){:target="_blank"} to read the inst
 The lab instructions are available for download for your convenience.
 
   Lab #1 Db2 for z/OS Native REST Services: [here](Db2 for zOS REST and Hybrid Cloud - Lab 1 v4.0.pdf){:target="_blank"}.
-  Lab #2 z/OS Connect Integration and OpenAPI 2 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2A v4.0.pdf){:target="_blank"}.
-  Lab #3 (optional) z/OS Connect Integration and OpenAPI 3 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2B v4.0.pdf){:target="_blank"}.
+  Lab #2A z/OS Connect Integration and OpenAPI 2 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2A v4.0.pdf){:target="_blank"}.
+  Lab #2B (optional) z/OS Connect Integration and OpenAPI 3 [here](Db2 for zOS REST and Hybrid Cloud - Lab 2B v4.0.pdf){:target="_blank"}.
 
 ## Remote System Credentials 
 
