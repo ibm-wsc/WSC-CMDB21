@@ -19,7 +19,7 @@ The lab instructions are available for download for your convenience.
 
   Lab #1 Db2 for z/OS Native REST Services: [here](Db2 for zOS REST and Hybrid Cloud - Lab 1 v4.1.2.pdf){:target="_blank"}.
 
-  Lab #2 z/OS Connect Integration [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing Native Server RESTful APIs for accesing Db2 REST Services.pdf){:target="_blank"}.  ## NOTE: Pages 67 to 88 are optional for this workshop.
+  Lab #2 z/OS Connect Integration [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/OpenAPI3/Developing Native Server RESTful APIs for accesing Db2 REST Services.pdf){:target="_blank"}.  NOTE: Pages 67 to 88 are optional for this workshop.
 
 ## Remote System Credentials 
 
