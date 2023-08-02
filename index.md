@@ -13,7 +13,7 @@ Click [here](Db2 for zOS REST and Hybrid Cloud Presentation.pdf){:target="_blank
 
 ## Accessing the hands-on lab
 
-Click [here](CMDB21 Virtual Access Guide.pdf){:target="_blank"} to read the instructions for how to access the Windows environment via a Remote Desktop application or a Web Browser.
+Click [here](CMDB21 Virtual Access Guide.pdf){:target="_blank"} to read the instructions for how to access the Windows environment a Web Browser.
 
 The lab instructions are available for download for your convenience.
 
