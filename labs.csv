@@ -1,5 +1,5 @@
-IBM DB2 z/OS Connect EE Workshop for Cloud and Mobile Applications,,,,,,,
-Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #
-e93fb4b024768db2ccb03469c255c60b,https://T-12081-169-59-184-96.ibmztrialmachines.com/,Administrator,x,x,55d6dnNQ9wRkzaLY97k4,x,12081
-0cd34a1ed2a05a1eff54f52f419fd471,https://T-12080-169-59-184-49.ibmztrialmachines.com/,Administrator,x,x,9FyIAzh6qnyitW1Nf62G,x,12080
-88cb717d7ada1d933b004232736085be,https://T-12079-169-59-184-48.ibmztrialmachines.com/,Administrator,x,x,CtFsPOvTXvapbj9gmB4n,x,12079
+IBM DB2 z/OS Connect EE Workshop for Cloud and Mobile Applications,,,,
+Serial No,URL,User ID,Password,machine #
+e93fb4b024768db2ccb03469c255c60b,https://T-12081-169-59-184-96.ibmztrialmachines.com/,Administrator,55d6dnNQ9wRkzaLY97k4,12081
+0cd34a1ed2a05a1eff54f52f419fd471,https://T-12080-169-59-184-49.ibmztrialmachines.com/,Administrator,9FyIAzh6qnyitW1Nf62G,12080
+88cb717d7ada1d933b004232736085be,https://T-12079-169-59-184-48.ibmztrialmachines.com/,Administrator,CtFsPOvTXvapbj9gmB4n,12079
