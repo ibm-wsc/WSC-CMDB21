@@ -1,46 +1,5 @@
-IBM DB2 z/OS Connect EE Workshop for Cloud and Mobile Applications,,,,
-Serial No,URL,User ID,Password,machine #
-e93fb4b024768db2ccb03469c255c60b,https://T-9141-169-59-184-96.ibmztrialmachines.com/,Administrator,Ujy8yafXOSt2lWkgwpiO,9141
-f794daa1e63029828ec58248549815d2,https://T-9145-169-59-184-117.ibmztrialmachines.com/,Administrator,LAIPXcGZ1TOzvdWwkOtP,9145
-f70e1f11102adb5b67d287eb78f41913,https://T-9136-169-59-184-195.ibmztrialmachines.com/,Administrator,fygvwunNTNIdgJ3djqfj,9136
-0cd34a1ed2a05a1eff54f52f419fd471,https://T-9138-169-59-184-196.ibmztrialmachines.com/,Administrator,CvmhJFdKOpYMVmKKGNW4,9138
-c83b05a09022a146601be10e69b6ae4f,https://T-9159-169-59-184-51.ibmztrialmachines.com/,Administrator,22WokH6ldxAquvuRWrq0,9159
-35e46c4442c6b0a71e0ff6d3b5719be4,https://T-9142-169-59-184-99.ibmztrialmachines.com/,Administrator,i1WCfIhfR8CpRouLWacv,9142
-ac9a2ccc8613b434b8464a799b79080d,https://T-9165-169-59-184-25.ibmztrialmachines.com/,Administrator,Hcf8kZZYPE5yrsWnDND9,9165
-af917b96d89a46713193e942b8a3314d,https://T-9148-169-59-184-106.ibmztrialmachines.com/,Administrator,nFmqBzW4K8Zm1Qgo1wlZ,9148
-1938df7b8cf9f080aafd9aacd549cbac,https://T-9170-169-59-184-28.ibmztrialmachines.com/,Administrator,NKYa5qf1Mul4LCQMogqL,9170
-ed2e1f7f2f91b0029cc96e3573c0a243,https://T-9177-169-59-184-17.ibmztrialmachines.com/,Administrator,30Z0muxiWJktunwIyEnh,9177
-f91a1e5c11fced5c81198abe3b9579b8,https://T-9179-169-59-184-22.ibmztrialmachines.com/,Administrator,IkfLkYetwdaJn1RI1bWw,9179
-d7b5bf101f737e565b68aa1a365ebdf5,https://T-9173-169-59-184-2.ibmztrialmachines.com/,Administrator,M4E8dYQXNAoS267F6OuO,9173
-cc9a8fa7edda545b56e38062cf5b1c83,https://T-9156-169-59-184-5.ibmztrialmachines.com/,Administrator,ju0rp67wV8NVf6jN86mT,9156
-2fcb1ad3e7109ee775b5accba31296e1,https://T-9153-169-59-184-125.ibmztrialmachines.com/,Administrator,9e3kT0Bhd7Bkr85mJN5p,9153
-44b27faa3514ceb1ecd0befde0479968,https://T-9176-169-59-184-92.ibmztrialmachines.com/,Administrator,xkMeOe0mQ9cFvJDuyyHa,9176
-d03b53fd69ddccb4ba7f35f176bc28e5,https://T-9180-169-59-184-91.ibmztrialmachines.com/,Administrator,cRYTBKnVJiEWpBOM5Pu3,9180
-aaf02378dfd42408c33ad064dccaeea5,https://T-9164-169-59-184-101.ibmztrialmachines.com/,Administrator,uKGf33wGXVE7Dtei50bA,9164
-8f52bd68d0f4c8ed65696b6c960b70bf,https://T-9175-169-59-184-98.ibmztrialmachines.com/,Administrator,OUKDPkizGc8CjEdMusG2,9175
-9ac5b9936e3c398f8a0979dc95d179d8,https://T-9157-169-59-184-242.ibmztrialmachines.com/,Administrator,qO5BgwASod9G6ULKmdn2,9157
-12173bafc6622c341e0b5a9d52980c4e,https://T-9149-169-59-184-249.ibmztrialmachines.com/,Administrator,Ss6aBNuTwgZEBb5zWIjp,9149
-81ba3e02a13d184b9ed5c31f0ced6066,https://T-9137-169-59-184-82.ibmztrialmachines.com/,Administrator,7MR0kkBhg9llcFVjfIAi,9137
-393ea09a6b14fbfa0efb73a6912b6654,https://T-9166-169-59-184-67.ibmztrialmachines.com/,Administrator,9OAhoqrPK49s8CW8nKTO,9166
-05c128b7cc3a20300c57d9610deb495d,https://T-9167-169-59-184-69.ibmztrialmachines.com/,Administrator,7h3M9JityF5FtEsjmUX4,9167
-4830ea4071483660ffcc1bffd3dd296e,https://T-9155-169-59-184-85.ibmztrialmachines.com/,Administrator,sTJkydATUsQvoixGa2Yk,9155
-8865b5a924a188ba3241a9c8aa2154d7,https://T-9160-169-59-184-73.ibmztrialmachines.com/,Administrator,e7qv2a9HGvOxFMndEDWW,9160
-1fce2c7108f4387de1adbb22af8abb00,https://T-9169-169-59-184-41.ibmztrialmachines.com/,Administrator,RxVEuDPaEoFqIHweuL0b,9169
-15127e355bd9f096081c730dc681b361,https://T-9150-169-59-184-212.ibmztrialmachines.com/,Administrator,EB6yWhTd34efh02fEXVI,9150
-a7cc2ca8493f69f716ec32802d18b3c3,https://T-9171-169-59-184-116.ibmztrialmachines.com/,Administrator,U3v5m2G1oOJfKOP4xZQb,9171
-0371bb7a049530e27c7c9f76156d983f,https://T-9178-169-59-184-113.ibmztrialmachines.com/,Administrator,uPCZvF3RRnUtcWauK8Md,9178
-8c382adebcbc2d6492e903ccbe8d576a,https://T-9163-169-59-184-49.ibmztrialmachines.com/,Administrator,f9bgEMbDFuOjXU4DTDhq,9163
-5cb112d68d1efe41e54f5454f1ca23aa,https://T-9139-169-59-184-209.ibmztrialmachines.com/,Administrator,xAPn90ZkHW4kGR9TEuPQ,9139
-5ccba1c67550aa0d88d9907f82884270,https://T-9143-169-59-184-88.ibmztrialmachines.com/,Administrator,BW5DrH3FMa7O7xXBgplY,9143
-d76e9e91476f5dabcb6e0b19d22f5e71,https://T-9162-169-59-184-83.ibmztrialmachines.com/,Administrator,l9aytfaY5BZeJZLIXsf8,9162
-393eb69c2282355c7a7dc300b449f309,https://T-9174-169-59-184-38.ibmztrialmachines.com/,Administrator,hnQ57KewkAa9xk5rzDP0,9174
-b499f3952e885747504091f5505509a2,https://T-9146-169-59-184-79.ibmztrialmachines.com/,Administrator,UMxLpfXK8pAFQOccrJaJ,9146
-08383df0b0a093d23868bb301d947815,https://T-9152-169-59-184-131.ibmztrialmachines.com/,Administrator,hjJ4I5KdhtYZPCSCUi1D,9152
-25e46d3ea6e243b62988d017b49c47de,https://T-9154-169-59-184-234.ibmztrialmachines.com/,Administrator,YB8DQyxEmuc0BmciaK0K,9154
-661c0931cd1475f9a3f4362bdfec2963,https://T-9168-169-59-184-71.ibmztrialmachines.com/,Administrator,so7kAYDUqOTlMKKoyGGW,9168
-bbed76a997bb4a2b6c422265e9586214,https://T-9161-169-59-184-48.ibmztrialmachines.com/,Administrator,N1mDJysCa5XsYqrcz4bb,9161
-e67a860a67ae35c004f548d93d855916,https://T-9172-169-59-184-35.ibmztrialmachines.com/,Administrator,8bqyiBljyVCUOuFhjJnT,9172
-88a9632cfb745a5c512ce8803f357502,https://T-9147-169-59-184-216.ibmztrialmachines.com/,Administrator,tyuV89UDPSIMK3lxKcbZ,9147
-6efd70322fe686034420623b0d0c3796,https://T-9144-169-59-184-235.ibmztrialmachines.com/,Administrator,0DuTdcpeUr4K5tsHrYUZ,9144
-3a11c50ec8f0b7a1d3144756cef74de1,https://T-9151-169-59-184-58.ibmztrialmachines.com/,Administrator,eIDxmMGGUuNj5QtzxVaU,9151
-7411e6ffe6eb669d5a83d79a6625d50b,https://T-9140-169-59-184-224.ibmztrialmachines.com/,Administrator,XrrSSpvJNoOaAeCoDzv0,9140
+IBM DB2 z/OS Connect EE Workshop for Cloud and Mobile Applications,,,,,,,
+Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #
+e93fb4b024768db2ccb03469c255c60b,https://T-12081-169-59-184-96.ibmztrialmachines.com/,Administrator,x,x,55d6dnNQ9wRkzaLY97k4,x,12081
+0cd34a1ed2a05a1eff54f52f419fd471,https://T-12080-169-59-184-49.ibmztrialmachines.com/,Administrator,x,x,9FyIAzh6qnyitW1Nf62G,x,12080
+88cb717d7ada1d933b004232736085be,https://T-12079-169-59-184-48.ibmztrialmachines.com/,Administrator,x,x,CtFsPOvTXvapbj9gmB4n,x,12079
